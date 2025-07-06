@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './menu.css'; // make sure this file contains the CSS provided below
+import './Menu.css'; // make sure this file contains the CSS provided below
 
 export default function Menu() {
   const items = [
